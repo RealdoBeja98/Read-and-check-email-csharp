@@ -12,9 +12,7 @@ using System.Net.Http;
 namespace IC.MailCheck
 
 {
-/// <summary>
-/// ///
-/// </summary>
+
     class Program
     {
         static void openFile()
